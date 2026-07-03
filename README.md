@@ -18,9 +18,9 @@
 
 I'm an Enterprise Architect and AI Platform Designer with **nearly 19 years** of experience designing and modernizing enterprise financial and ERP systems — spanning PeopleSoft FSCM, PeopleSoft HCM, Campus Solutions, and Oracle Fusion. Over the last several years, my focus has shifted toward a specific problem: **how do you bring metadata-driven architecture and explainable AI into enterprise financial systems without sacrificing governance, auditability, or financial accuracy?**
 
-That question is the throughline across everything on this profile — from **ERPKit**, an open-source Python standard library for enterprise transaction validation, to **AuditIQ AI** and **ARIP**, AI platforms designed to sit above existing ERP systems rather than replace them.
+That question is the throughline across everything on this profile from **ERPKit**, an open-source Python standard library for enterprise transaction validation, to **AuditIQ AI** and **ARIP**, AI platforms designed to sit above existing ERP systems rather than replace them.
 
-I'd rather build a reusable framework once than rebuild the same integration logic on every project — which is why most of my recent work lives in the open.
+I'd rather build a reusable framework once than rebuild the same integration logic on every project - which is why most of my recent work lives in the open.
 
 ```text
 const harish = {
@@ -36,7 +36,7 @@ const harish = {
 
 ## 🎯 Professional Mission
 
-> Design intelligent enterprise software platforms that combine **Enterprise ERP**, **Artificial Intelligence**, **Metadata-Driven Architecture**, **Financial Intelligence**, **Cloud Integration**, and **Modern Python Engineering** — to help organizations modernize enterprise systems while preserving governance, financial integrity, explainability, and scalability.
+> Design intelligent enterprise software platforms that combine **Enterprise ERP**, **Artificial Intelligence**, **Metadata-Driven Architecture**, **Financial Intelligence**, **Cloud Integration**, and **Modern Python Engineering** - to help organizations modernize enterprise systems while preserving governance, financial integrity, explainability, and scalability.
 
 <br>
 
@@ -138,7 +138,7 @@ A metadata-driven Python framework for enterprise transaction validation, financ
 ### ⚙️ [MetaFlow](https://github.com/harishmahanta/metaflow)
 **Metadata-Driven Processing Engine**
 
-The rule-compilation and execution engine powering ERPKit — compiles declarative YAML/JSON rule and mapping definitions into typed, executable validation logic over a Polars execution layer.
+The rule-compilation and execution engine powering ERPKit compiles declarative YAML/JSON rule and mapping definitions into typed, executable validation logic over a Polars execution layer.
 
 `Rule Compiler` `Metadata Engine` `Polars` `Declarative Validation`
 
