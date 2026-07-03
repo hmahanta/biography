@@ -16,7 +16,7 @@
 
 ## 👤 About Me
 
-I'm an Enterprise Architect and AI Platform Designer with **nearly 19 years** of experience designing and modernizing enterprise financial and ERP systems — spanning PeopleSoft FSCM, PeopleSoft HCM, Campus Solutions, and Oracle Fusion. Over the last several years, my focus has shifted toward a specific problem: **how do you bring metadata-driven architecture and explainable AI into enterprise financial systems without sacrificing governance, auditability, or financial accuracy?**
+I'm an Enterprise Architect and AI Platform Designer with **nearly 19 years** of experience designing and modernizing enterprise financial and ERP systems - spanning PeopleSoft FSCM, PeopleSoft HCM, Campus Solutions, and Oracle Fusion. Over the last several years, my focus has shifted toward a specific problem: **how do you bring metadata-driven architecture and explainable AI into enterprise financial systems without sacrificing governance, auditability, or financial accuracy?**
 
 That question is the throughline across everything on this profile from **ERPKit**, an open-source Python standard library for enterprise transaction validation, to **AuditIQ AI** and **ARIP**, AI platforms designed to sit above existing ERP systems rather than replace them.
 
@@ -211,7 +211,7 @@ AuditIQ AI is designed to close a specific gap in enterprise compliance tooling:
 
 ### 📈 ARIP — Autonomous Receivables Intelligence Platform
 
-ARIP is an AI-native **Financial Intelligence Layer** that sits above existing ERP systems — Oracle Fusion, SAP, PeopleSoft, Workday, Microsoft Dynamics — rather than replacing them. It's built around a simple distinction:
+ARIP is an AI-native **Financial Intelligence Layer** that sits above existing ERP systems - Oracle Fusion, SAP, PeopleSoft, Workday, Microsoft Dynamics — rather than replacing them. It's built around a simple distinction:
 
 <div align="center">
 
@@ -235,7 +235,7 @@ ARIP is an AI-native **Financial Intelligence Layer** that sits above existing E
 
 ## 🧬 Enterprise AI Augmentation Platform
 
-A next-generation AI platform purpose-built for **PeopleSoft FSCM** — specifically **Procure-to-Pay**, **Asset Management**, and **General Ledger** — designed to **augment, not replace**, the underlying ERP by layering enterprise AI services on top of it.
+A next-generation AI platform purpose-built for **PeopleSoft FSCM** - specifically **Procure-to-Pay**, **Asset Management**, and **General Ledger** — designed to **augment, not replace**, the underlying ERP by layering enterprise AI services on top of it.
 
 <table>
 <tr>
